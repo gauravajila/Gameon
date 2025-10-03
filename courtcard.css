@@ -1,0 +1,16 @@
+.court-card {
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  width: 250px;
+  cursor: pointer;
+  background: white;
+  padding: 1rem;
+  transition: 0.3s;
+}
+.court-card:hover {
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.court-card img {
+  width: 100%;
+  border-radius: 8px;
+}
